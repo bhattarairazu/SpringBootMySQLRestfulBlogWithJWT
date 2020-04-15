@@ -4,6 +4,7 @@ Spring Boot Restful Blog API With Json Web Token and MySQL
 [spring-boot-security-jwt](https://www.callicoder.com/spring-boot-spring-security-jwt-mysql-react-app-part-2/)
 
 #### Todos:
+  - [ ] complete missing parts
   - [ ] fix errors and bugs
   - [ ] Dockerize Project
   - [ ] İmplement Caching with redis
